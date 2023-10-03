@@ -7,6 +7,6 @@
 # 使用方法
 
 1. 将已经国际化的内容先写入globalization-all.xlsx中
-2. 给予autoWrite.sh可执行权限chmod +x ./autoWrite.sh
-3. 执行./autoWrite.sh
+2. 给予read_xlsx_to_ios可执行权限chmod +x ./read_xlsx_to_ios
+3. 执行./read_xlsx_to_ios
 4. 根据相关提示使用
