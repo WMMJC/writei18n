@@ -1,5 +1,7 @@
 # writei18n
+
 自动将xlsx中的i18n内容，写入到xcstrings(xcode15)/strings(xcode14)中
+
 
 
 # 使用方法

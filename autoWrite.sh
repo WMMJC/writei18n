@@ -9,6 +9,7 @@ executableName="./read_xlsx_to_ios"
 eval "chmod +x ${executableName}"
 
 cat << EOF
+联系我：cjappuser@163.com
 自动将xlsx中的i18n国际化内容写入xcstrings/strings中
 有如下2种类型
 EOF
